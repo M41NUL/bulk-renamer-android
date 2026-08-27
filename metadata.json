@@ -1,0 +1,7 @@
+{
+  "name": "Bulk Renamer",
+  "description": "Bulk file, media, photo, and video renamer tool with live preview, duplicate detection, presets, and history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
